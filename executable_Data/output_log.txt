@@ -1,0 +1,22 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.14.12.9573]
+    Renderer: NVIDIA Quadro FX 4800
+    Vendor:   NVIDIA
+    VRAM:     1536 MB (via registry)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.317 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Documents and Settings\Luke\Unity\UnityTutorial\executable_Data\Managed\Boo.Lang.dll (this message is harmless)
